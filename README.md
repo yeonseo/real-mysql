@@ -1,9 +1,10 @@
 # Real My SQL
 
 참고한 스터디 진행 방법
+
 [혼자서는 읽기 힘든 Real MySQL 을 다같이 공부해보는 스터디 모임](https://github.com/BackendSquid/RealMySQL)
 
-## 진행 방식 1 - 1-2인 진행
+## 진행 방식 1 (1-2인 진행)
 - 공유 일시: 매주 토요일 오전 10시 부터 2시간
 - 서기(yeonseo)가 목차를 마크다운으로 정리해서 ISSUE 올리기
 - 참여 스터디원은 ISSUE에 각자 brach를 만들고 내용을 PR함
